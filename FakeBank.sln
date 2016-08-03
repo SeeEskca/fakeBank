@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeBank", "FakeBank\FakeBank.csproj", "{A64EEF88-5E28-44BB-BAAA-DDECBEFF5E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeBankTest", "FakeBankTest\FakeBankTest.csproj", "{23C037AF-9D30-438A-BED9-5DCF9DC2034B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankDB", "BankDB\BankDB.csproj", "{C84A3E65-8113-47E7-869F-37548FCD7F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64EEF88-5E28-44BB-BAAA-DDECBEFF5E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64EEF88-5E28-44BB-BAAA-DDECBEFF5E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64EEF88-5E28-44BB-BAAA-DDECBEFF5E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64EEF88-5E28-44BB-BAAA-DDECBEFF5E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C037AF-9D30-438A-BED9-5DCF9DC2034B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C037AF-9D30-438A-BED9-5DCF9DC2034B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C037AF-9D30-438A-BED9-5DCF9DC2034B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C037AF-9D30-438A-BED9-5DCF9DC2034B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84A3E65-8113-47E7-869F-37548FCD7F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84A3E65-8113-47E7-869F-37548FCD7F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84A3E65-8113-47E7-869F-37548FCD7F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84A3E65-8113-47E7-869F-37548FCD7F99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\bin\Debug\FakeBankTest.dll
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\bin\Debug\FakeBankTest.pdb
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\bin\Debug\FakeBank.dll
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\bin\Debug\FakeBank.pdb
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\obj\Debug\FakeBankTest.csprojResolveAssemblyReference.cache
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\obj\Debug\FakeBankTest.dll
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\obj\Debug\FakeBankTest.pdb
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\bin\Debug\BankDB.dll
+c:\Users\Eskca\documents\visual studio 2015\Projects\FakeBank\FakeBankTest\bin\Debug\BankDB.pdb

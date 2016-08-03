@@ -1,0 +1,5 @@
+c:\users\eskca\documents\visual studio 2015\Projects\FakeBank\FakeBank\bin\Debug\FakeBank.dll
+c:\users\eskca\documents\visual studio 2015\Projects\FakeBank\FakeBank\bin\Debug\FakeBank.pdb
+c:\users\eskca\documents\visual studio 2015\Projects\FakeBank\FakeBank\obj\Debug\FakeBank.csprojResolveAssemblyReference.cache
+c:\users\eskca\documents\visual studio 2015\Projects\FakeBank\FakeBank\obj\Debug\FakeBank.dll
+c:\users\eskca\documents\visual studio 2015\Projects\FakeBank\FakeBank\obj\Debug\FakeBank.pdb
